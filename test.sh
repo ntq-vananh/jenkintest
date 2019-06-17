@@ -1,2 +1,2 @@
 #!bash/sh
-echo "hello world test check"
+echo "edit check hello world test check"
