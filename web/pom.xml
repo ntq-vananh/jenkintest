@@ -23,7 +23,7 @@
 				<artifactId>maven-war-plugin</artifactId>
 				<version>2.1</version>
 				<configuration>
-					<outputDirectory>${file.separator}usr${file.separator}javaapp${file.separator}apache-tomcat-8.5.42${file.separator}webapps</outputDirectory>
+					<outputDirectory>${file.separator}usr${file.separator}local${file.separator}tomcat${file.separator}webapps</outputDirectory>
 				</configuration>
 			</plugin>
 		</plugins>
