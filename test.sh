@@ -2,5 +2,5 @@
 echo "Hello world"
 export NAME="Hello Nam"
 echo ${NAME}
-cd web/ && mvn package
-
+ls .
+cd web/ && sudo mvn package
